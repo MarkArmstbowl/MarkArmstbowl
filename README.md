@@ -16,7 +16,7 @@ I'm a Master's student at Carnegie Mellon University focused on Software Enginee
 
 ## Featured Projects
 
-### CurateBench — LLM Training & Evaluation
+### [CurateBench — LLM Training & Evaluation](https://github.com/pengyuanli/CurateBench)
 Built a reproducible pipeline for biomedical LLM fine-tuning and evaluation, including QLoRA training, evidence-aware evaluation, and hallucination analysis.
 
 ### Movie Recommendation System — Production ML Systems
